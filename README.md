@@ -20,7 +20,7 @@ The topic scope is limited to GitHub's core product features, on GitHub.com and 
 
 These manuals are designed to be generated using [docsify](https://docsify.js.org). To get your own manuals up and running, all you have to do is:
 
-1. Fork this repository
+1. Fork this repository for yourself
 2. In your fork, click on **Settings**
 3. Scroll down to the GitHub Pages section, and set **Source:** to `main branch /docs folder`.
 4. Click **Save**.
